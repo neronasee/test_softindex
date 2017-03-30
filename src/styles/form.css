@@ -1,0 +1,9 @@
+.form-error {
+	color: red;
+}
+.form-age {
+	max-width: 75px;
+}
+.form-buttons button {
+	margin-right: 5px;
+}
